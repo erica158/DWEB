@@ -1,2 +1,2 @@
 # DWEB
- Projeto DE Desenvolvimento Web
+ Projeto de Desenvolvimento Web
